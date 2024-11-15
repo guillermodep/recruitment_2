@@ -69,6 +69,12 @@ const clients = [
     width: 180,
     height: 50
   },
+  { 
+    name: "Jhonson & Jhonson", 
+    logo: "https://1000marcas.net/wp-content/uploads/2021/05/Johnson-and-Johnson-logo.png",
+    width: 180,
+    height: 50
+  },
 ];
 
 export default function Home() {
